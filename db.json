@@ -17,7 +17,7 @@
       "under-the-order": true,
       "delivery": true,
       "quantity": 15,
-      "ranting": 4.9,
+      "ranting": 4.83,
       "img": {
         "small": "https://im.wampi.ru/2022/08/10/0-min.png",
         "big": "https://ie.wampi.ru/2022/08/10/1210125_v02_b.jpg"
@@ -46,6 +46,18 @@
           "ranting": 5,
           "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
           "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 5,
+          "text": "asfasfa"
+        },
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 5,
+          "text": "Great product"
         }
       ],
       "characteristic": [
@@ -136,7 +148,7 @@
       "under-the-order": true,
       "delivery": true,
       "quantity": 0,
-      "ranting": 4,
+      "ranting": 4.25,
       "img": {
         "small": "https://im.wampi.ru/2022/08/10/1-min.png",
         "big": "https://ie.wampi.ru/2022/08/10/53650636.jpg"
@@ -159,6 +171,12 @@
           "ranting": 5,
           "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
           "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 5,
+          "text": "Отличный товар"
         }
       ],
       "characteristic": [
@@ -249,7 +267,7 @@
       "under-the-order": true,
       "delivery": true,
       "quantity": 15,
-      "ranting": 4.1,
+      "ranting": 3.4,
       "img": {
         "small": "https://ie.wampi.ru/2022/08/10/2-min.png",
         "big": "https://im.wampi.ru/2022/08/10/70bcf2243744e731872c9d89873dc773.jpg"
@@ -266,6 +284,24 @@
           "ranting": 4,
           "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
           "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "heracl",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 4,
+          "text": "First review"
+        },
+        {
+          "name": "heracl",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 4,
+          "text": "[thyz"
+        },
+        {
+          "name": "heracl",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 1,
+          "text": ""
         }
       ],
       "characteristic": [
@@ -356,7 +392,7 @@
       "under-the-order": true,
       "delivery": true,
       "quantity": 15,
-      "ranting": 3.7,
+      "ranting": 4,
       "img": {
         "small": "https://ie.wampi.ru/2022/08/10/3-min.png",
         "big": "https://ie.wampi.ru/2022/08/10/12018261-450x450.png"
@@ -367,6 +403,12 @@
           "ranting": 3,
           "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
           "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "heracl",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 5,
+          "text": "Gteate product"
         }
       ],
       "characteristic": [
@@ -1233,8 +1275,33 @@
       "pick-up": true,
       "under-the-order": true,
       "delivery": true,
-      "ranting": 0,
-      "reviews": [],
+      "ranting": 3.25,
+      "reviews": [
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 5,
+          "text": "First review"
+        },
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 1,
+          "text": ""
+        },
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 2,
+          "text": ""
+        },
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 5,
+          "text": "Отличный товар"
+        }
+      ],
       "description": "Бензиновый генератор MIKKELI GX 3500 используется для выработки электроэнергии в бытовых и хозяйственных нуждах. Запуск производится от сети либо вручную. Двигатель в 7.5 л.с. обеспечивает мощность в 3,4 кВт. Воздушная система охлаждения позволяет использовать генератор в помещениях и на улице. Емкость бака – 15 литров.",
       "img": {
         "small": "https://im.wampi.ru/2022/08/16/a0aec54879bfc37378a72cfa169b1e85.png",
@@ -1357,7 +1424,14 @@
       "under-the-order": true,
       "delivery": true,
       "ranting": 0,
-      "reviews": [],
+      "reviews": [
+        {
+          "name": "Dima",
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "ranting": 0,
+          "text": "Первый отзыв"
+        }
+      ],
       "description": "Дрель шуруповерт BOSCH 180Li обладает эргономичной формой, благодаря которой инструмент удобно и легко использовать. Легкий вес 1600 г и прорезиненная ручка позволяют длительное время работать с инструментом не перегружая руки. Питание шуруповерта обеспечивает литий-ионный аккумулятор 2,0 Ач, идущий в комплекте с зарядным устройством и дополнительной батареей. Инструмент продается в пластиковом чемодане.",
       "img": {
         "small": "https://im.wampi.ru/2022/08/19/393b52f7b61598f4b2b676b360acf7bf.png",
@@ -2633,36 +2707,60 @@
       "id": 1
     }
   ],
+  "users": [
+    {
+      "login": "arakyl",
+      "password": "qwerty",
+      "email": "amil@mail.com",
+      "authorization": false,
+      "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+      "id": 1
+    },
+    {
+      "login": "Dima",
+      "password": "qazwsx",
+      "email": "email@get.com",
+      "authorization": false,
+      "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+      "id": 2
+    },
+    {
+      "login": "heracl",
+      "password": "heracl",
+      "email": "heracl@mail.com",
+      "authorization": true,
+      "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+      "id": 3
+    }
+  ],
   "slader": [
     {
       "title": "Электро-Бензо инструмент",
       "color": "#ffffff",
       "slogan": "большой выбор и хорошие цены",
-      "id": 1,
-      "img": { "big": "https://ic.wampi.ru/2022/07/29/1.jpg", "small": "https://ie.wampi.ru/2022/08/29/sla1-min.jpg"}
+      "img": {
+        "big": "https://ic.wampi.ru/2022/07/29/1.jpg",
+        "small": "https://ie.wampi.ru/2022/08/29/sla1-min.jpg"
+      }
     },
     {
       "title": "Сильнее Снегопада",
       "color": "#9C9C9C",
       "slogan": "Большой выбор снегоуборочных машин. Качественные устройства для любого бюджета",
-      "id": 2,
-      "img": { "big": "https://ie.wampi.ru/2022/07/29/3.jpg", "small": "https://im.wampi.ru/2022/08/29/sla2-min.jpg"}
+      "img": {
+        "big": "https://ie.wampi.ru/2022/07/29/3.jpg",
+        "small": "https://im.wampi.ru/2022/08/29/sla2-min.jpg"
+      }
     },
     {
       "title": "FUBAG ГЕНЕРАТОРЫ",
       "color": "#9C9C9C",
       "slogan": "FUBAG предлагает широкий набор опций для увеличения функциональности и мобильности генераторов",
-      "id": 3,
-      "img": { "big": "https://ic.wampi.ru/2022/07/29/2.jpg", "small": "https://im.wampi.ru/2022/08/29/sla3-min.png"}
+      "img": {
+        "big": "https://ic.wampi.ru/2022/07/29/2.jpg",
+        "small": "https://im.wampi.ru/2022/08/29/sla3-min.png"
+      }
     }
-  ],
-  "producer": [
-    "HUTER",
-    "Ресанта",
-    "Echo",
-    "DIAM",
-    "Nuova",
-    "Вихрь"
   ],
   "shop": [
     {
@@ -2702,17 +2800,53 @@
     }
   ],
   "footer": [
-    { "name": "info", 
-    "children": [
-      { "name": "Доставка", "href": "/contact" },
-      { "name": "Оплата", "href": "/delivery" },
-      { "name": "Производители", "href": "/items" },
-      { "name": "Подарочные сертификаты", "href": "/delivery" },
-      { "name": "Партнерская программа", "href": "/delivery" },
-      { "name": "Акции", "href": "/" },
-      { "name": "Все товары", "href": "/items" }]
+    {
+      "name": "info",
+      "children": [
+        {
+          "name": "Доставка",
+          "href": "/contact"
+        },
+        {
+          "name": "Оплата",
+          "href": "/delivery"
+        },
+        {
+          "name": "Производители",
+          "href": "/items"
+        },
+        {
+          "name": "Подарочные сертификаты",
+          "href": "/delivery"
+        },
+        {
+          "name": "Партнерская программа",
+          "href": "/delivery"
+        },
+        {
+          "name": "Акции",
+          "href": "/"
+        },
+        {
+          "name": "Все товары",
+          "href": "/items"
+        }
+      ]
     },
-    { "name": "infoUser", "children": ["Личный кабинет", "История заказов", "Избранное", "Рассылка"] },
-    { "name": "infoSupport", "children": ["Возврат товара"] }
+    {
+      "name": "infoUser",
+      "children": [
+        "Личный кабинет",
+        "История заказов",
+        "Избранное",
+        "Рассылка"
+      ]
+    },
+    {
+      "name": "infoSupport",
+      "children": [
+        "Возврат товара"
+      ]
+    }
   ]
 }
